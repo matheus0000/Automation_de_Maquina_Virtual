@@ -1,0 +1,12 @@
+############################
+#vagrant up                #
+#vagrant halt              #
+#vagrant reload            #
+#vagrant status            #
+############################
+#vagrant destroy           # 
+############################
+#vagrant box list          #
+#vagrant box remove (nome) #
+#vagrant box add    (nome) # 
+############################
